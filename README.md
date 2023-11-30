@@ -14,7 +14,7 @@ Welcome to the TetraOS Cosmos UI Toolkit! We're excited to have you here. This g
 
 ## Code of Conduct
 
-Before you start contributing, please read our [Code of Conduct](./CODE_OF_CONDUCT.md). This document outlines the standards of behavior we expect from all contributors.
+Before you start contributing, please read our [Code of Conduct](https://github.com/TetraOS/.github/tree/main). This document outlines the standards of behavior we expect from all contributors.
 
 ## Getting Started
 
