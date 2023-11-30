@@ -8,4 +8,6 @@
 ## Contribution
 5. Information coming soon on how to contribute to the development of the UI Toolkit.
 
+---
+
 *This README.md is still being written.*
